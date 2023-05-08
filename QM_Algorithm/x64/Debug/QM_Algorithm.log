@@ -1,0 +1,8 @@
+﻿  Function.cpp
+D:\Git Hub\QM_Algorithm\QM_Algorithm\Function.cpp(267,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Git Hub\QM_Algorithm\QM_Algorithm\Function.cpp(268,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Git Hub\QM_Algorithm\QM_Algorithm\Function.cpp(272,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Git Hub\QM_Algorithm\QM_Algorithm\Function.cpp(612,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  QM_Implmentation.cpp
+  Generating Code...
+  QM_Algorithm.vcxproj -> D:\Git Hub\QM_Algorithm\x64\Debug\QM_Algorithm.exe
